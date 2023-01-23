@@ -12,4 +12,4 @@ print("Hi!")
 
 print("Hello World!")
 
-# window on left is repository, window on right is project
+# window on left is repository, window on right is project #
