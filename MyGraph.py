@@ -9,3 +9,7 @@ plt.show()
 print("Hello there again!")
 
 print("Hi!")
+
+print("Hello World!")
+
+# window on left is repository, window on right is project
